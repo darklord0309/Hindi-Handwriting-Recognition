@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 18 10:38:01 2019
-
-@author: KIIT
-"""
+# application class for the model
 
 import cv2
 from tensorflow.keras.models import load_model
